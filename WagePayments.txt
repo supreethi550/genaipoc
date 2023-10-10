@@ -1,0 +1,92 @@
+A. WagePayments
+    
+    Wage Payments provides employee payment solutions via direct deposit and checks. Paying employees correctly and on time. This includes pay statements services such as online posting and
+    print distributions. We also offer online posting, print and distribution services for tax forms like W-2's, 1099's etc.
+
+    List of wage payment products and description:
+        Print: Checks and Vouchers are printed by ADP shipped to employees. Employees visits bank and encashes his pay.
+        FSDD : FSDD stands for Full Service direct deposit. When an employee chooses FSDD product, employee get his pay directly deposited into his bank account.
+        Ipay: Ipay is an online portal where in employee can login and see his pay statement virtually.
+        IVR : Using IVR employee gets his pay statement details through voice call to the ADP registered mobile number.
+
+    Steps for Single Employee Provisioning through SCP
+        1.logIn to SCP
+        2.Go To Wage Payment.
+        3.Click on Employee Eccess tab.
+        4.click on Set Up employee
+        5.Click on Single emp. tab
+        6.Provide the emp info, company info, email and phone no. an click on Submit employee Provionment tab.
+
+    Steps for Bulk Employee Provisioning through SCP
+        Follow above steps 1 to step 4.
+        5.Click on Multiple emp. tab
+        6.Download the emp. setup file template.
+        7.Create the file and upload an employee setup file from "select file to upload".
+
+ 
+B. YearEnd tax forms
+    Processing and distributing employee year-end tax documents correctly and on time. ADP supports 15 year end tax forms.
+    In FY 2022-2023 WagePayments has processed 34 million year end tax forms out of which 29M tax forms were printed and 25 million tax forms were posted online(IPAY)
+    1. W2 form
+        IRS Form W-2, also known as a "Wage and Tax Statement," reports an employee's income from the prior year and how much tax the employer withheld.
+        Employers send employees a Form W-2 in January. A copy also goes to the IRS.
+        Employees use the information on their Form W-2 to prepare their tax returns (Form 1040).
+
+    2. Guam form
+        Guam is one of the US territory and it has it's own governance and their own tax systems.
+        There's no separate "state" tax on Guam. Instead, you simply pay the same rate you'd pay for federal taxes to the Guam Department of Revenue and Taxation—no additional local personal income taxes.
+
+    3. Puerto Rico form
+        Puerto Rico is one of the US territory and it has it's own governance and their own tax systems.
+        Specifically, residents of Puerto Rico pay customs taxes, Federal commodity taxes,
+        and all payroll taxes (also known as FICA taxes, which include (a) Social Security, (b) Medicare, and Unemployment taxes).
+
+    4. Virgin Islands form
+        Virgin Islands is one of the US territory and it has it's own governance and their own tax systems.
+        The US Congress has granted USVI the authority to allow a lowered tax rate to bona fide residents of the USVI.
+        Any income related to a USVI business is also taxed at a lower rate. Bona fide USVI residents pay taxes to the Virgin Islands Bureau of Internal Revenue (BIR) instead of the IRS.
+
+    5. Saipan form
+        Saipan is one of the US territory and it has it's own governance and their own tax systems.
+        The island also has its own taxation department where taxes are paid to the local government directly. You don't have to deal with the dreaded Internal Revenue Service (IRS).
+
+    6. 1099R form
+        Form 1099-R is used to report the distribution of retirement benefits such as pensions and annuities.
+        1099-R is used for both U.S. citizen and nonresident alien beneficiaries.
+        These payments are treated as private pensions for U.S. Federal income tax purposes
+
+    7. 1099M form
+        Form 1099-MISC is an Internal Revenue Service (IRS) form used to report certain types of miscellaneous compensation, such as rents, prizes, and awards, healthcare payments, and payments to an attorney.
+
+    8. 1099K form
+        Form 1099-K is the IRS form that taxpayers receive to report certain payment transactions.
+        If you're self-employed or an independent contractor, you report 1099-K income on Schedule C of your federal Form 1040 tax return.
+
+    9. 1099NEC form
+        Form 1099-NEC is the new form to report nonemployee compensation—that is, pay from independent contractor jobs (also sometimes referred to as self-employment income).
+        Examples of this include freelance work or driving for DoorDash or Uber. Previously, companies reported this income information on Form 1099-MISC (Box 7).
+
+    10. T4 form
+        The T4, also known as the Statement of Remuneration Paid, is a slip of information that reveals:
+        How much money an employee earned during the entire year; and.
+        How much was withheld and remitted to the Canada Revenue Agency (CRA) on the employee's behalf.
+
+    11. T4-A form
+        The T4A is a Statement of Pension, Retirement, Annuity, and Other Income. If you have received any self-employment income throughout the past year, you report it as a T4A vs. T4.
+        While the T4 and T4A slips may seem similar, the T4 includes more detail around various payroll contributions that you have as an employee.
+
+    12. RL-1 form
+        The RL-1 slip must be filed by any employer or payer that paid amounts such as salaries, wages, gratuities, tips, fees, scholarships or commissions.
+        The information on the RL-1 slip is used by individuals to complete the personal income tax return (TP-1-V).
+
+    13. RL-2 form
+        The RL-2 slip is a provincial year-end form that's issued primarily for reporting retirement income, annuity income, and Quebec income tax withheld from those payments.
+        Payments reported on the RL-2 are those elements with a secondary classification reporting type of T4A/RL2.
+
+    14. W-2C form
+        The W-2C form is a corrected version of a W2 form. When an employee wishes to correct his W2 form, then employee can do so by submitting a W-2C form.
+
+    15. 1095C form
+        The form 1095C inclused Information about the health insurance coverage offered to employee by their employer.
+
+    

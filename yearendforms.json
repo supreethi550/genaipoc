@@ -1,0 +1,74 @@
+{
+  "forms": [
+    {
+      "form_name": "W2",
+      "description": "IRS Form W-2, also known as a 'Wage and Tax Statement'",
+      "usage": "Employees use the information on their Form W-2 to prepare their tax returns (Form 1040)"
+    },
+    {
+      "form_name": "Guam",
+      "description": "Tax form specific to the US territory of Guam",
+      "usage": "Used to report income and pay taxes to the Guam Department of Revenue and Taxation"
+    },
+    {
+      "form_name": "Puerto Rico",
+      "description": "Tax form specific to the US territory of Puerto Rico",
+      "usage": "Used to report income and pay taxes to the Puerto Rico tax system"
+    },
+    {
+      "form_name": "1099K",
+      "description": "IRS form used to report certain payment transactions",
+      "usage": "Taxpayers report 1099K income on Schedule C of their federal Form 1040 tax return"
+    },
+    {
+      "form_name": "1099NEC",
+      "description": "IRS form used to report nonemployee compensation",
+      "usage": "Used for reporting self-employment income or income from independent contractor jobs"
+    },
+    {
+      "form_name": "T4",
+      "description": "Canadian tax form known as the Statement of Remuneration Paid",
+      "usage": "Used to report earnings and tax withholdings to the Canada Revenue Agency (CRA)"
+    },
+    {
+      "form_name": "T4-A",
+      "description": "Canadian tax form used to report income for completing personal income tax return",
+      "usage": "Information on the RL-1 slip is used to complete the personal income tax return (TP-1-V)"
+    },
+    {
+      "form_name": "RL-2",
+      "description": "Provincial year-end form primarily used for reporting retirement income and Quebec income tax withheld",
+      "usage": "Used for reporting retirement income, annuity income, and Quebec income tax withheld"
+    },
+    {
+      "form_name": "W-2C",
+      "description": "Corrected version of the W2 form",
+      "usage": "Used when an employee needs to correct their W2 form"
+    },
+    {
+      "form_name": "1095C",
+      "description": "Form that includes information about health insurance coverage offered by an employer",
+      "usage": "Used for reporting health insurance coverage to the IRS"
+    },
+    {
+      "form_name": "Saipan",
+      "description": "Tax form specific to the US territory of Saipan",
+      "usage": "Used to report income and pay taxes to the local government"
+    },
+    {
+      "form_name": "1099R",
+      "description": "IRS form used to report the distribution of retirement benefits",
+      "usage": "Used for reporting pension and annuity distributions"
+    },
+    {
+      "form_name": "1099M",
+      "description": "IRS form used to report miscellaneous compensation",
+      "usage": "Used for reporting rents, prizes, awards, healthcare payments, and payments to an attorney"
+    },
+    {
+      "form_name": "1099K",
+      "description": "IRS form used to report certain payment transactions",
+      "usage": "Taxpayers receive this form to report payment transactions"
+    }
+  ]
+}

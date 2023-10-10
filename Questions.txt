@@ -1,0 +1,26 @@
+ default-text-embedding-ada-002   3/m
+
+WagePayments
+Mention about both payroll and year end products
+
+1. What is wagepayments?
+2. What all banks do you support for direct deposit?
+3. What are the pay frequencies you support?
+4. How to onboard to wagepayments?
+5. Does your application support any reporting tools?
+6. Contact the admin for further details
+7. What is the cost to process a payroll?
+8. How many days before the paydate should the impounds be paid
+9. What are all the payment types you support?
+10. Are there any limits for the amounts we can send?
+11. How many clients are there currently in wagepayments?
+
+
+Year End
+1. Can you list all the year end tax forms in json format?
+2. How many year end tax forms can i see online for FY22-23?
+3. What is Year End?
+4. How many clients are there in year end?
+5. 
+
+
