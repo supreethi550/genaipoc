@@ -10,6 +10,8 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import base64
+from langchain import OpenAI, LLMChain, PromptTemplate
+
 from PIL import Image
 adpLogo= Image.open('adp.png')
 botLogo= Image.open('assets/bot.png')
@@ -97,7 +99,7 @@ def get_base64(bin_file):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Chat with Nexus",page_icon=adpLogo)
+    st.set_page_config(page_title="Chat with Wage Payments-AVA",page_icon=adpLogo)
     st.write(css, unsafe_allow_html=True)
     set_background('./assets/bg_white.jpg')
 
@@ -106,7 +108,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Chat with Nexus")
+    st.header("Chat with Wage Payments-AVA")
     user_question = st.text_input("Ask a question about Wage Payments:", placeholder="Eg: What is Wage Payments?  Why should we use Wage Payments?  How to stop a check?")
     if user_question:
         handle_userinput(user_question)

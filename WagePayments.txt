@@ -1,7 +1,10 @@
 A. WagePayments
-    
-    Wage Payments provides employee payment solutions via direct deposit and checks. Paying employees correctly and on time. This includes pay statements services such as online posting and
-    print distributions. We also offer online posting, print and distribution services for tax forms like W-2's, 1099's etc.
+     
+	Wage Payments provides employee payment solutions via direct deposit and checks. Wage payments prints checks on behalf of employee ,ships to 
+employee locations and employee vists to bank and encashs it .Using Direct deposit , pay amount is directly dibursed into employee bank account .
+The pay statement is accessible in online portal such as IPAY.
+
+	Wage payments also offers online posting, print and distribution services for Year end tax forms like W-2's, 1099's etc.   	
 
     List of wage payment products and description:
         Print: Checks and Vouchers are printed by ADP shipped to employees. Employees visits bank and encashes his pay.
@@ -9,25 +12,17 @@ A. WagePayments
         Ipay: Ipay is an online portal where in employee can login and see his pay statement virtually.
         IVR : Using IVR employee gets his pay statement details through voice call to the ADP registered mobile number.
 
-    Steps for Single Employee Provisioning through SCP
-        1.logIn to SCP
-        2.Go To Wage Payment.
-        3.Click on Employee Eccess tab.
-        4.click on Set Up employee
-        5.Click on Single emp. tab
-        6.Provide the emp info, company info, email and phone no. an click on Submit employee Provionment tab.
+How to onboard a new client to wagepayments / Client Onboarding process
 
-    Steps for Bulk Employee Provisioning through SCP
-        Follow above steps 1 to step 4.
-        5.Click on Multiple emp. tab
-        6.Download the emp. setup file template.
-        7.Create the file and upload an employee setup file from "select file to upload".
+    Thank you for showing interest in our Product Wage 
+    Payments. Our sales team will reach out to you to take through the Onboarding process.
 
- 
+
 B. YearEnd tax forms
-    Processing and distributing employee year-end tax documents correctly and on time. ADP supports 15 year end tax forms.
-    In FY 2022-2023 WagePayments has processed 34 million year end tax forms out of which 29M tax forms were printed and 25 million tax forms were posted online(IPAY)
-    1. W2 form
+    Processing and distributing employee year-end tax documents correctly and on time. ADP supports multiple year end tax forms for both US and Canada.
+    In Financial Year 2022-2023 WagePayments has processed 34 million year end tax forms out of which 29M tax forms were printed and 25 million tax forms were posted online(IPAY)
+    
+    1. W2 form 
         IRS Form W-2, also known as a "Wage and Tax Statement," reports an employee's income from the prior year and how much tax the employer withheld.
         Employers send employees a Form W-2 in January. A copy also goes to the IRS.
         Employees use the information on their Form W-2 to prepare their tax returns (Form 1040).
@@ -89,4 +84,97 @@ B. YearEnd tax forms
     15. 1095C form
         The form 1095C inclused Information about the health insurance coverage offered to employee by their employer.
 
-    
+C. how many clients are there in wage payments.
+      The year end (YE) clients are 2500. The payroll clients are 2200 in number.
+
+D. what all banks do you support for direct deposit
+
+    Wells Fargo Bank, N.A.
+	JP Morgan Chase
+	Key Bank
+	US Bank
+	Santander Bank
+	PNC Bank, NA
+	Commerce Bank (Now TD Banknorth NA)
+	Bank of The West
+	TD Banknorth, N.A.
+	BB&T
+	FIRST HAWAIIAN BANK
+	T D Bank
+
+
+E. Does wage payments application support any reporting tool?
+	Yes we do report to clients via notifications,reports and email alerts.
+
+F. How can a a client can upload a file
+        1.log In to Smart Compliance Portal 
+        2.Click on Wage Payments menu from side bar.
+        3.Navigate to Wage Payments workspace
+        4.Click on Upload Files menu on the tiles at top of the Wage Payments Home page
+        5. File upload sliders gets opened, select a branch company code and upload 200 byte Test or Production file with payroll information to get the file processed
+
+I. How can we check File status /Wage Payments File processing
+        1.log In to Smart Compliance Portal
+        2.Click on Wage Payments menu from side bar.
+        3. Navigate to Wage Payments workspace
+        4.Wage Payments Home page has multiple tabs and default tab displayed will be Wage Payments Files tab
+        5. WP files tab displays the list of client uploaded files with their Processing status 
+        6. A file once uploaded will initially be in Validating Data status where the payroll information provided by client will be validated
+        7. Once the data is validated the status changes to Processing
+        8. Once the file is Processed without any issued the Processing will be Completed.
+
+J. How to recover a failed file / Smart Recovery
+
+        1.log In to Smart Compliance Portal
+        2.Click on Wage Payments menu from side bar.
+        3. Navigate to Wage Payments workspace.
+        4. Select a file which is in Errors status.
+        5. Clieck on "Remove Errors and Process Payroll" button.
+        6. Click on "Process Payroll with Update" button on the Process Payroll with Update conformation pop up.
+        7. File will be smart recovered successfully.
+
+K. How to Stop a Check
+        1.log In to Smart Compliance Portal
+        2.Click on Wage Payments menu from side bar.
+        3. Navigate to Wage Payments workspace
+        4. Click on Management and Reversals tile 
+        5. Please provide manadatory information like Check number or Check number range , Paydate or Paydate range , amount and other details to get the list of checks.
+        6. Please select an Open or Issued check to stop the payment and click on Request Stop check button
+        7. Stop Check slider gets opened and please accept the terms and conditions and Submit a request to stop a check
+        8. Your check will be stopped and You will be provided with a Transaction Number for reference once the request is submitted.
+
+L. How to Stop a FSDD payment or Direct Deposit reversal
+        1. log In to Smart Compliance Portal
+        2. Click on Wage Payments menu from side bar.
+        3. Navigate to Wage Payments workspace
+        4. Click on Management and Reversals tile 
+        5. Click on Durect Deposits tab and provide manadatory information like Account number or Employee File number, Paydate or Paydate range , amount and other details to get the list of FSDD payments.
+        6. Please select an Open, Pending or Hold transactions to stop the payment and click on Reverse Direct Deposit reversal button.
+        7. Stop Payment slider gets opened and please accept the terms and conditions and Submit a request to reverse a payment
+        8. Your payment will be stopped and You will be provided with a Transaction Number for reference once the request is submitted.
+
+M. How to Copy a check / request a duplicate copy of a Check
+        1. log In to Smart Compliance Portal
+        2. Click on Wage Payments menu from side bar.
+        3. Navigate to Wage Payments workspace
+        4. Click on Management and Reversals tile 
+        5. Please provide manadatory information like Check number or Check number range , Paydate or Paydate range , amount and other details to get the list of checks.
+        6. Please select a Paid check to request a duplicate copy and click on Request Stop check button
+        7. Copy Check slider gets opened and enter mandatory personal information like name, email address or mailing address  and Submit a request to Copy a check
+        8. Your check will be Copied and You will be provided with a Transaction Number for reference once the request is submitted.
+
+
+G. What are the pay frequencies wage payments support?
+
+	wage payments supports Hourly,Daily,Weekly,Biweekly and Monthly wages payments
+
+H. Payment methods that are supported by Wage Payments
+    ACH transfers, Checks, Direct Deposits, Vouchers
+
+N. How much do we cost for Wage Payments products? 
+	ADP Check - $0.35 per transaction and $0.90 per printed page
+    Full Service direct deposit (FSDD) - $0.35 per transaction and $0.90 per printed page
+    IPAY - $0.40 per statement
+    This cost varies if Client chooses multiple products. Please contact Wage Payments service executives for more information
+	
+        
